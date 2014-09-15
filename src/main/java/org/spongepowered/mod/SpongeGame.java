@@ -126,3 +126,4 @@ public final class SpongeGame implements Game {
         throw new UnsupportedOperationException();
     }
 }
+
